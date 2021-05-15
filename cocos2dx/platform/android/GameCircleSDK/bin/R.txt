@@ -1,0 +1,6 @@
+int drawable rounded_corners 0x7f020000
+int id modal_overlay_container 0x7f060000
+int layout modal_overlay_container 0x7f030000
+int raw amazon_gc_prototype 0x7f040000
+int style GCAlert 0x7f050001
+int style GCOverlay 0x7f050000
